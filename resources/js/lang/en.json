@@ -1,0 +1,54 @@
+{
+  "label": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "view_contacts": "View Contacts",
+    "edit_shipper": "Edit Shipper",
+    "update_shipper": "Update Shipper",
+    "create_shipper": "Create Shipper",
+    "add_contact": "Add Contact",
+    "add_shipper": "Add Shipper",
+    "create_contact": "Create Contact"
+  },
+
+  "page": {
+    "page_not_found": "Page Not Found",
+    "no": "No",
+    "shipper_company_name": "Shipper Company Name",
+    "address": "Address",
+    "primary_contact_name": "Primary Contact Name",
+    "primary_contact_number": "Primary Contact Number",
+    "dashboard": "dashboard",
+    "shippers": "Shippers",
+    "add_to_contact_list": "Add to Contact List",
+    "set_primary_contact": "Set Primary Contact",
+    "company_name": "Company Name",
+    "number": "Number",
+    "create_contact": "Create Contact",
+    "create_shipper": "Create Shipper",
+    "update_shipper": "Update Shipper"
+  },
+
+  "form": {
+    "contact_name": "Contact Name",
+    "contact_number": "Contact Number",
+    "company_name": "Company Name",
+    "contacts": "Contacts",
+    "address": "Address"
+  },
+
+  "alert": {
+    "error": {
+      "title": "Oops...",
+      "text": "Something went wrong! Please try again."
+    },
+    "success": {
+      "title": "Success"
+    },
+    "info": {
+      "contact_created": "Contact is created",
+      "shipper_created": "Shipper is created",
+      "shipper_updated": "Shipper is updated"
+    }
+  }
+}
